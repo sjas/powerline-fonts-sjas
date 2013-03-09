@@ -1,0 +1,27 @@
+@echo off
+start /m perl conv.pl <10x20.bdf  >.\cp1250\10x20.bdf
+start /m perl conv.pl <14x26.bdf  >.\cp1250\14x26.bdf
+start /m perl conv.pl <5x7.bdf    >.\cp1250\5x7.bdf
+start /m perl conv.pl <5x8.bdf    >.\cp1250\5x8.bdf
+start /m perl conv.pl <6x13.bdf   >.\cp1250\6x13.bdf
+start /m perl conv.pl <6x13B.bdf  >.\cp1250\6x13B.bdf
+start /m perl conv.pl <6x14.bdf   >.\cp1250\6x14.bdf
+start /m perl conv.pl <6x14B.bdf  >.\cp1250\6x14B.bdf
+start /m perl conv.pl <6x9.bdf    >.\cp1250\6x9.bdf
+start /m perl conv.pl <7x13.bdf   >.\cp1250\7x13.bdf
+start /m perl conv.pl <7x13B.bdf  >.\cp1250\7x13B.bdf
+start /m perl conv.pl <7x14.bdf   >.\cp1250\7x14.bdf
+start /m perl conv.pl <7x14B.bdf  >.\cp1250\7x14B.bdf
+start /m perl conv.pl <8x10.bdf   >.\cp1250\8x10.bdf
+start /m perl conv.pl <8x12.bdf   >.\cp1250\8x12.bdf
+start /m perl conv.pl <8x12B.bdf  >.\cp1250\8x12B.bdf
+start /m perl conv.pl <8x14.bdf   >.\cp1250\8x14.bdf
+start /m perl conv.pl <8x14B.bdf  >.\cp1250\8x14B.bdf
+start /m perl conv.pl <8x16.bdf   >.\cp1250\8x16.bdf
+start /m perl conv.pl <8x16B.bdf  >.\cp1250\8x16B.bdf
+start /m perl conv.pl <8x16BS.bdf >.\cp1250\8x16BS.bdf
+start /m perl conv.pl <8x8.bdf    >.\cp1250\8x8.bdf
+start /m perl conv.pl <9x15.bdf   >.\cp1250\9x15.bdf
+start /m perl conv.pl <9x15B.bdf  >.\cp1250\9x15B.bdf
+start /m perl conv.pl <9x17.bdf   >.\cp1250\9x17.bdf
+start /m perl conv.pl <9x17B.bdf  >.\cp1250\9x17B.bdf
